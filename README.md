@@ -1,16 +1,17 @@
-# Multimodal-Construction-Intelligence
+Multimodal Construction Intelligence Platform
 An AI-powered construction intelligence platform that combines multimodal image analysis, project planning, real estate valuation, construction guidance, and weather-aware recommendations in a single web application.
-# Live Demo
+
+Live Demo
 Live Application: https://multimodal-construction-intelligence.onrender.com/
 
 GitHub Repository: https://github.com/Mayankpawar28/MultiModal-Construction-intelligence
 
-# Overview
+Overview
 The Multimodal Construction Intelligence Platform uses AI to assist construction professionals, site engineers, and property stakeholders with preliminary construction-related assessments and decision support.
 
 Users can upload construction site images, ask construction-related questions, explore project planning suggestions, and receive weather-aware recommendations through a web-based interface.
 
-# Key Features
+Key Features
 Site Safety Review: Analyze construction site images for potential safety concerns.
 Crack and Surface Review: Examine visible cracks and surface conditions for preliminary assessment.
 Real Estate Valuation: Generate indicative property valuation estimates based on provided information.
